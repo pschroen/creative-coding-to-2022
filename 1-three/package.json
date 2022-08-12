@@ -1,0 +1,11 @@
+{
+  "name": "creative-coding-to-2022",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "servez public"
+  },
+  "devDependencies": {
+    "servez": "^1.14.1"
+  }
+}
